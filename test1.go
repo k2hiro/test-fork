@@ -11,5 +11,5 @@ func main() {
 }
 
 func test() {
-	fmt.Println("This is test")
+	fmt.Println("This is test2")
 }
